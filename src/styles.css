@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  border: 2px solid #333;
+}
+
+table tr {
+  background: #88cc88;
+}
+table caption {
+  caption-side: top;
+  border: 1px solid #888;
+}
